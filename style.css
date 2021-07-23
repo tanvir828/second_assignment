@@ -1,0 +1,53 @@
+.border{border-color: black;}
+.border{border-width: 10px;}
+.border{font-variant: small-caps;}
+.border{font-style: oblique;}
+.tr{background-color: grey;
+    border-radius: 10px;}
+.si_1-10{
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px;}
+.tags_name_1-10{
+    background-color: blue;
+    border-radius: 10px;
+    padding-inline: 10px;}
+.Description_1-10{
+    background-color: green;
+    border-radius: 10px;
+    padding: 25px;}
+.Example_1-10{
+    background-color: rgb(255, 2, 242);
+    padding: 25px;
+    border-radius: 10px;}
+.si_11-20{
+    padding: 10px;
+    background-color: teal;
+    border-radius: 10px;}
+.tags_name_11-20{
+    background-color:palegreen;
+        border-radius: 10px;
+        padding-inline: 10px;}
+.Description_11-20{
+    background-color:yellowgreen;
+    border-radius: 10px;
+    padding: 25px;}
+.Example_11-20{background-color: turquoise;
+    border-radius: 10px;
+    padding: 25px;}
+.si_21-30{
+    padding: 10px;
+    background-color:blue ;
+    border-radius: 10px;}
+.tags_name_21-30{
+    background-color:yellow;
+    border-radius: 10px;
+    padding-inline: 10px;}
+.Description_21-30{
+    background-color: chocolate;
+    border-radius: 10px;
+    padding: 25px;}
+.Example_21-30{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 25px;}
